@@ -32,6 +32,18 @@ Cada distribución está diseñada con un objetivo particular: facilidad de uso,
 2015 – Elementary OS: Inspirada en macOS, enfocada en diseño y sencillez.
 
 Actualidad – Surgen distros especializadas: Kali Linux (seguridad), Pop!_OS (creadores y gamers), Tails (privacidad), entre otras.
+🔍 Principales Diferencias Entre Distros
+
+Las diferencias entre distribuciones Linux se pueden observar en varios aspectos.
+Por ejemplo, Debian y sus derivadas como Ubuntu se centran en la estabilidad y en ofrecer un sistema sólido para servidores y uso general. Utilizan el gestor de paquetes APT con archivos .deb, lo que permite instalar y actualizar software de forma sencilla.
+
+En el caso de Red Hat y Fedora, aunque comparten raíces, sus enfoques difieren: Fedora se orienta a la innovación y a probar nuevas tecnologías, mientras que Red Hat prioriza la fiabilidad y el soporte empresarial. Ambas utilizan RPM y el gestor DNF, lo que les da una estructura robusta y adecuada para empresas.
+
+Por otro lado, Arch Linux representa el minimalismo y el control absoluto por parte del usuario. Su filosofía es “hazlo tú mismo”, permitiendo construir un sistema totalmente personalizado. A diferencia de Arch, Gentoo lleva este enfoque aún más lejos, pues se basa en la compilación de programas desde código fuente, lo que brinda un sistema extremadamente optimizado pero demandante en tiempo y conocimientos.
+
+Para usuarios principiantes o que buscan comodidad, Linux Mint surge como una alternativa sencilla y lista para usar. Su objetivo es ofrecer una experiencia amigable con el usuario, basada en Ubuntu pero con mejoras en la interfaz y configuraciones predeterminadas que facilitan la transición desde otros sistemas operativos.
+
+Finalmente, existen distros diseñadas con propósitos específicos. Kali Linux, por ejemplo, está enfocada en la seguridad informática y el pentesting, mientras que otras como Tails priorizan el anonimato y la privacidad. Pop!_OS se orienta hacia creadores de contenido y gamers, demostrando que el ecosistema Linux ofrece soluciones adaptadas a diferentes perfiles y necesidades.
 
 📌 Conclusiones
 
