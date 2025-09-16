@@ -1,10 +1,7 @@
 import streamlit as st
 import pandas as pd
-import plotly.timeline as timeline
 import plotly.express as px
 import plotly.graph_objects as go
-from datetime import datetime
-import numpy as np
 
 # Configuración de la página
 st.set_page_config(
